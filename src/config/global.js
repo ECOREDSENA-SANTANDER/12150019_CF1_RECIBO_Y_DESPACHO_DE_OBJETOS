@@ -147,22 +147,126 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: '7 tipos de cargas y sus características para ser transportadas.',
+      referencia:
+        'TSafeLink Group. (2022, 14 septiembre). 7 tipos de cargas y sus características para ser transportadas.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=AJcRiQVyZao',
+    },
+    {
+      tema: 'Recepción de Mercancías: qué es, fases y ejemplos.',
+      referencia:
+        'Recepción de mercancías: qué es, fases y ejemplos. (s. f.). Simpliroute. ',
+      tipo: 'Blog',
+      link: 'https://simpliroute.com/es/blog/recepcion-de-mercancias',
+    },
+    {
+      tema: 'Centros de distribución y automatización en Concepto Logístico.',
+      referencia:
+        'MasContainer. (2022, 25 abril). Centros de distribución y automatización en Concepto Logístico.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=BoiLWb0qBAE',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Áreas de recibo',
+      significado: 'espacios destinados para recibir mercancías en almacenes.',
+    },
+    {
+      termino: 'Automatizado',
+      significado:
+        'se utilizan sistemas neumáticos para extraer los productos de forma más eficiente.',
+    },
+    {
+      termino: 'Bandas Transportadoras',
+      significado: 'dispositivos para mover mercancías sobre una cinta.',
+    },
+    {
+      termino: 'Cadena de frío',
+      significado:
+        'control de temperatura constante para preservar alimentos y evitar su descomposición.',
+    },
+    {
+      termino: 'Carga',
+      significado: 'objetos o mercancías transportadas de un lugar a otro.',
+    },
+    {
+      termino: 'Ciclo de distribución',
+      significado:
+        'etapas que siguen los productos desde su recepción hasta la entrega al cliente.',
+    },
+    {
+      termino: 'Código de Barras',
+      significado:
+        'representación gráfica de información en forma de barras que facilita la identificación y el control de inventarios de mercancías.',
+    },
+    {
+      termino: 'Desembalaje',
+      significado: 'retirar el embalaje de los productos para inspección.',
+    },
+    {
+      termino: 'EDI (Intercambio Electrónico de Datos)',
+      significado:
+        'sistema que permite el intercambio de datos estructurados entre sistemas para agilizar la comunicación comercial y logística.',
+    },
+    {
+      termino: 'Etiquetado',
+      significado:
+        'colocación de rótulos o códigos en productos, ya sea de forma manual o automática, para su identificación y seguimiento.',
+    },
+    {
+      termino: 'Tipos de carga',
+      significado:
+        'clasificación de la carga, como general, pesada, frágil, peligrosa, etc.',
+    },
+    {
+      termino: 'Manual',
+      significado:
+        'el operario utiliza herramientas como carretillas y gatos hidráulicos para cargar y descargar los productos.',
+    },
+    {
+      termino: 'Mecanizado',
+      significado:
+        'se emplean equipos como montacargas y bandas transportadoras para facilitar el traslado de productos.',
+    },
+    {
+      termino: 'Montacargas',
+      significado:
+        'equipos mecanizados utilizados para levantar y mover mercancías pesadas dentro del almacén o centro de distribución.',
+    },
+    {
+      termino: '<i>Picking</i>',
+      significado:
+        'proceso de selección y extracción de productos del almacén según los pedidos recibidos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Escudero Serrano, M. J., Escrivá Monzó, J., & Clar Bononad, F. (2000). Operaciones de Almacenaje. Madrid: McGraw-Hill.',
       link: '',
+    },
+    {
+      referencia:
+        'Fernández, V. G. (2014). Manual. Operaciones Auxiliares de Almacenaje. Madrid: EDITORIAL CEP, S.L.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gomez, L. (2012, 6 diciembre). Recibos y despachos de mercancías.',
+      link:
+        'https://recibosydespachosdemercanciasaura.blogspot.com/2012/11/gestion-y-logistica-sena-eficacia-53.html',
+    },
+    {
+      referencia:
+        'Lozano Rojo, J. R. (2003). Operaciones de Almacenaje. Madrid: Editex S.A.',
+      link: '',
+    },
+    {
+      referencia: 'Rigo. (s. f.). NATURALEZA DE LOS OBJETOS.',
+      link:
+        'http://rigo-logistica.blogspot.com.co/2011/08/naturaleza-de-los-objetos.html',
     },
   ],
   creditos: [
@@ -170,14 +274,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -185,9 +289,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ingrid Criollo García',
+          cargo: 'Experta temática',
+          centro: 'Centro de Comercio y Servicio - Regional Tolima',
+        },
+        {
+          nombre: 'Luisa Patricia Juvinao',
+          cargo: 'Equipo de diseño curricular',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturistico – Regional Santander',
         },
       ],
     },
@@ -195,19 +310,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
