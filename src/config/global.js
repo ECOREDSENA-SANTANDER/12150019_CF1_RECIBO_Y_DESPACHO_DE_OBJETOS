@@ -1,9 +1,11 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    Name:
+      'Gestión de recepción y despacho según las características del producto',
+    Description:
+      'Para gestionar eficazmente las áreas de recepción y despacho, es clave identificar el proceso que incluye recepción, almacenamiento, organización y envío de productos. Este proceso depende de características como tamaño, peso, perecibilidad o fragilidad, las cuales determinan los procedimientos y recursos necesarios para optimizar tiempos, reducir costos y mejorar la satisfacción del cliente.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/imagen.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,27 +33,70 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Entendiendo el concepto y la naturaleza de la carga',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Tipos de carga',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Características de objetos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Bandas transportadoras',
+            hash: 't_3_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Concepto de recibido y despacho',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              'Los principales objetivos del proceso de recibido de mercancías',
+            hash: 't_4_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Métodos y técnicas de extracción de objetos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Las áreas de recibo más reconocidas',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Procedimiento de recepción de objetos',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Concepto de despacho',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Preparación y organización de áreas para recibo y despacho',
         desarrolloContenidos: true,
       },
     ],
