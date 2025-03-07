@@ -42,17 +42,44 @@ figcaption
 
 .icon 
   max-width: 20px
-  left: 25px
+  left: 50px
   position: absolute
 
 .bg-img-gris
   padding: 5px
   background-color: #EDECF4
-  border-radius: 0px 20px 20px 0px
-  border-top-left-radius: 50px 
-  border-left-color: white
+  border-radius: 50px 20px 20px 0px
 
-// fondos y bordes
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+.fa-check-circle:before
+  content: url('../assets/curso/temas/geo-azul.png')
+
+.fa-shopping-cart:before
+  content: url('../assets/curso/temas/geo-gris.png')
+
+// fondos y bordes y tamaños
+
+.img220
+  width: 220px !important
 
 .borde-redondo
   border-radius: 25px
@@ -73,3 +100,107 @@ figcaption
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem
+
+.fondotema21
+  background: url('../assets/curso/temas/t2/fondo1.svg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondotema22
+  background: url('../assets/curso/temas/t2/fondo2.svg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondotema31
+  background: url('../assets/curso/temas/t3/fondo.svg')
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+
+.bg1
+  background: url('../assets/curso/temas/t2/ftar1.jpg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+.bg2
+  background: url('../assets/curso/temas/t2/ftar2.jpg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+.bg3
+  background: url('../assets/curso/temas/t2/ftar3.jpg')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+.bggris
+  background-color: #EDECF4
+
+// tab tema 1
+
+.tabs-b
+  border-bottom: none !important
+
+.tarjeta.color-primario
+  background-color: #CAE2FB
+
+.tabs-a__tab 
+    background-color:  #A4A1C5
+
+// Acordion tema 1
+
+.acordion__accion__btn--a
+  background-color: #F5827A
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+
+.acordion .tarjeta--azul
+  background-color: #496F93
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #F5FBCA
+  h3
+    color: black
+.acordion__titulo
+  h3
+    color: #fff
+
+// slyder tema 3 verde
+
+.tarjeta--blanca
+  background-color: #FFFFFF 
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #F5827A;
+
+.slyder-a__bullets__item
+    background-color: #EDECF4;
+
+.slyder-a__bullets__item--active 
+    background-color: #A4A1C5;
+    border-color: #A4A1C5;
+
+// para que los botones no se estiren en mobile
+
+.slyder-a__bullets__item--active 
+
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 11px
+        height: 11px
+        margin: 0px 0.5px
+
+@media (max-width: 768px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 30px
+    height: 30px
