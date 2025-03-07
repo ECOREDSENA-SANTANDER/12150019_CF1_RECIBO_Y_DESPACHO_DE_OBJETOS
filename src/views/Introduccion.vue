@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-sm-12.col-md-12.col-lg-7
         p El proceso de recepción y despacho de productos ha adquirido una relevancia significativa, requiriendo una atención minuciosa por parte de todas las personas involucradas. Esta importancia radica en la gestión adecuada de la información y el manejo preciso de los productos recibidos. Más allá de la simple verificación de cantidades, existe una fase crucial que antecede a las actividades de recibo y despacho: el alistamiento de las áreas físicas destinadas para ello.
         .cajon.color-acento-contenido.p-4.mb-4
