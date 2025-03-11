@@ -10,10 +10,8 @@
     .row.mb-4
       p Los tipos de carga se determinan por su capacidad de ser transportada sin que se alteren sus principales características, garantizando así un manejo adecuado durante todo el proceso logístico. Existen grupos de carga, que se dividen según sus características y necesidades específicas para su transporte:
 
-    mb-4.d-flex.ps-lg-0 
-      .d-flex.flex-wrap.align-items-center.pe-3.bg-img-gris
-        h3.col.px-4.mb-0.text-black.bg-img-gris(data-aos="zoom-in-left") Carga general
-        img.icon(src='@/assets/curso/temas/icono.svg') 
+    .etiqueta.sub2.p-2.d-flex.mb-4(data-aos="fade-left")
+      h3.mb-0.ps-5.pe-5 Carga general
 
     .row.mt-4.mb-4
       p Como su nombre lo indica, se refiere a cualquier tipo de carga de diversa naturaleza que se transporta de manera conjunta, en pequeñas cantidades y en unidades independientes. La característica principal de este tipo de carga es que su cantidad puede ser contada, ya que se manipula en unidades separadas. Ejemplos de carga general incluyen cilindros, cajas, cartones, botellas, planchas metálicas, entre otros, los cuales se transportan y almacenan de forma conjunta. La carga general, a su vez, se clasifica en las siguientes categorías:
@@ -46,10 +44,8 @@
                     i.fas.fa-shopping-cart
                     span.mb-0 #[b Carga contenerizada:] la mercancía se coloca en contenedores estandarizados, optimizando la seguridad y el transporte eficiente.
 
-    mb-4.d-flex.ps-lg-0 
-      .d-flex.flex-wrap.align-items-center.pe-3.bg-img-gris
-        h3.col.px-4.mb-0.text-black.bg-img-gris(data-aos="zoom-in-left") Carga granel
-        img.icon(src='@/assets/curso/temas/icono.svg') 
+    .etiqueta.sub3.p-2.d-flex.mb-4(data-aos="fade-left")
+      h3.mb-0.ps-5.pe-5 Carga granel
 
     .row.mt-4.mb-4
       p La carga a granel se refiere a productos que se transportan en grandes cantidades y sin embalaje, es decir, en su forma original, sin envoltorios o contenedores individuales. Esta carga se estiba directamente en los compartimientos específicos de la bodega de los buques, los cuales están especialmente diseñados y acondicionados para recibirla de manera eficiente. La carga a granel se clasifica en tres tipos principales según su estado físico:
@@ -64,10 +60,8 @@
           .tarjeta.color-primario.p-4(titulo="Cliente")
             p Se refiere a gases como el propano, butano, y otros gases industriales que se transportan en estado gaseoso. Estos gases se transportan en depósitos presurizados o criogénicos, dependiendo de las condiciones en las que se encuentren durante el transporte.
 
-    mb-4.d-flex.ps-lg-0 
-      .d-flex.flex-wrap.align-items-center.pe-3.bg-img-gris
-        h3.col.px-4.mb-0.text-black.bg-img-gris(data-aos="zoom-in-left") Carga especial
-        img.icon(src='@/assets/curso/temas/icono.svg') 
+    .etiqueta.sub4.p-2.d-flex.mb-4(data-aos="fade-left")
+      h3.mb-0.ps-5.pe-5 Carga especial
 
     .row.mt-4.mb-4
       p Como su nombre lo indica, la carga especial se distingue de las demás debido a sus características particulares que requieren un manejo, manipulación y estiba cuidadosos. Estas diferencias pueden estar relacionadas con factores como el peso, el grado de conservación, la peligrosidad, el alto valor, entre otros. Como resultado, este tipo de carga exige un tratamiento especial en su proceso logístico. Se considera carga especial:
@@ -127,10 +121,8 @@
     .row
       p.mb-5 La carga especial está compuesta por aquellos productos que, debido a sus características particulares, demandan un tratamiento y cuidado excepcionales durante su transporte y estiba.
 
-    mb-4.d-flex.ps-lg-0 
-      .d-flex.flex-wrap.align-items-center.pe-3.bg-img-gris
-        h3.col.px-4.mb-0.text-black.bg-img-gris(data-aos="zoom-in-left") Carga contenerizada
-        img.icon(src='@/assets/curso/temas/icono.svg') 
+    .etiqueta.sub5.p-2.d-flex.mb-4(data-aos="fade-left")
+      h3.mb-0.ps-5.pe-5 Carga contenerizada
 
     .row.align-items-center.justify-content-center.fondotema22
       .row
