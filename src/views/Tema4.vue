@@ -20,7 +20,7 @@
             p.mx-5.mb-2 el recibo de mercancías implica una serie de operaciones que incluyen la recepción, descarga, verificación y almacenamiento de productos, así como la gestión de los documentos relacionados con dicha recepción. Este proceso representa el primer paso en la gestión de un almacén e involucra materias primas, productos en proceso y productos terminados. La operación concluye cuando el producto es correctamente ubicado en las áreas designadas.
         p.mt-4 Las actividades de recibido y despacho se llevan a cabo de manera continua en los almacenes, bodegas y centros de distribución, los cuales requieren una coordinación eficiente entre proveedores y clientes para asegurar un flujo constante de información.
       .col-lg-3.col-sm-6.col-md-6
-        img(src='@/assets/curso/temas/t4/img2.png', alt='')
+        img(src='@/assets/curso/temas/t4/img2.png', alt='').d-none.d-lg-block
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-sm-8.col-md-8

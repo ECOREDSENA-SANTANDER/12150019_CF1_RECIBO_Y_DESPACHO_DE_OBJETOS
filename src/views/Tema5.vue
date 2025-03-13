@@ -66,7 +66,7 @@
               i.fas.fa-shopping-cart
               span.mb-0 Verificación y acondicionamiento de los pedidos.
       .col-3.col-md-6.col-lg-3
-        img(src='@/assets/curso/temas/t5/img3.png', alt='')
+        img(src='@/assets/curso/temas/t5/img3.png', alt='').d-none.d-lg-block
       .col-sm-12.col-md-12.col-lg-4
         .row
           .col-6.col-md-3.col-lg-3
@@ -238,7 +238,7 @@
           img(src='@/assets/curso/temas/t5/img8.png', alt='')
       .row.justify-content-center.align-items-center
         .col-4.col-md-3.col-lg-3
-          img(src='@/assets/curso/temas/t5/img9.png', alt='')
+          img(src='@/assets/curso/temas/t5/img9.png', alt='').d-none.d-lg-block
         .col-sm-12.col-md-8.col-lg-8
           .row.bggris.mt-5.mx-2
             p.p-3 No contar con un procedimiento específico puede generar problemas como inventarios erróneos, ingreso de material no conforme, y productos con empaque deteriorado. Esto puede ocasionar inconvenientes y pérdidas económicas.

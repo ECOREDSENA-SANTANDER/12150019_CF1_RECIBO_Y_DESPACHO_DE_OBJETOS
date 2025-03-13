@@ -16,7 +16,7 @@
       .col-sm-12.col-md-12.col-lg-4
         .row.align-items-center
           .col-3
-            img(src='@/assets/curso/temas/t3/ico1.png', alt='')
+            img(src='@/assets/curso/temas/t3/ico1.png', alt='').d-none.d-lg-block
         .row.mt-3
           p Este ajuste mejora la claridad y la estructura, manteniendo el enfoque en la importancia de un manejo adecuado según las características del producto.
 
