@@ -13,8 +13,11 @@
         .col-sm-12.col-md-12.col-lg-11
           p Entender el concepto y la naturaleza de la carga,  implica comprender qué es la carga y las características que la definen. El concepto hace referencia a los bienes o mercancías que se transportan de un lugar a otro, utilizando diversos medios de transporte. Por otro lado, la naturaleza de la carga se refiere a las propiedades específicas de los productos, como su tamaño, peso, fragilidad o requerimientos especiales. Este entendimiento es clave para optimizar los procesos de manejo, almacenamiento y traslado, garantizando la seguridad y eficiencia en la cadena logística. 
 
-      .etiqueta.sub1.p-2.d-flex.mb-4(data-aos="fade-left")
-        h3.mb-0.ps-5.pe-5 Clasificación de las cargas en función de su naturaleza y características
+      .row.align-items-center.mb-5.subt(data-aos="fade-right")
+        .col-auto.ico
+          img(src='@/assets/curso/temas/subt.svg', alt='')
+        .col
+          h3.mb-0.p-1.px-3 Clasificación de las cargas en función de su naturaleza y características
 
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-12

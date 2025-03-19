@@ -33,8 +33,11 @@
                 span.text-black #[b c]
               span.mb-0 Es necesario contar con el equipo humano y los medios de transporte adecuados, según las características de los productos a despachar.
 
-    .etiqueta.sub7.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Áreas de despacho
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Áreas de despacho
 
     p Las áreas de despacho o entrega de mercancía están determinadas por la naturaleza del producto y la infraestructura de la organización, al igual que las áreas de recepción. Es fundamental que la empresa solicite información precisa sobre el lugar de entrega, ya que en algunas organizaciones existen diferentes puntos de recepción, a continuación se describen las áreas de despacho: 
 
@@ -74,9 +77,11 @@
                   h4.text-center.mb-0 Área de verificación y salida
                 p.mb-0.text-center(data-aos="fade-right") Es el espacio donde se consolidan las mercancías, se verifican las referencias y cantidades, y, una vez confirmados, se procede al empaque, utilizando materiales adecuados según la naturaleza de los productos y el medio de transporte.
 
-
-    .etiqueta.sub8.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Procedimiento de despacho de objetos
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Procedimiento de despacho de objetos
 
     p.mb-4 Al igual que en el proceso de recepción de mercancía, el procedimiento de despacho está determinado por la naturaleza y el tipo de carga. En términos generales, el proceso sigue los siguientes pasos:
 

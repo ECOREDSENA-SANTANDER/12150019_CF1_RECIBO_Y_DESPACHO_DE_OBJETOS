@@ -13,14 +13,16 @@
       .col-sm-12.col-md-12.col-lg-11
         p Es fundamental considerar que el proceso de recepción y despacho varía según el tipo de producto y su empaque. Dependiendo de las características del empaque, se requiere el uso de equipos específicos para la movilización, tales como estibas o paletas, así como tanques para almacenar productos a granel (líquidos o sólidos). Además, es importante destacar que las empresas diseñan sus espacios logísticos según sus necesidades particulares.
 
-    .etiqueta.sub9.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Características de las áreas de recibido
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Características de las áreas de recibido
 
     p.mb-4 Existen múltiples características a tener en cuenta, ya que, como se ha mencionado a lo largo del material, todo depende de la naturaleza del producto y de la infraestructura disponible. A continuación, se mencionan algunos aspectos clave a considerar para diferentes tipos de productos.
     
-    .row.mb-3
-      .col-lg-6.col-sm-12.col-md-12
-        h3.p-1.mx-1.bggris.bordes Aspectos claves a considerar en el área de recibo de mercancías
+    .subt-2.px-5.py-1.mb-4(data-aos='fade')
+      h4.mb-0 Aspectos claves a considerar en el área de recibo de mercancías
 
     .tarjeta--container.row.mb-5
         .col-md.tarjeta.color-secundario.p-4.p-md-4.p-lg-5(data-aos="fade-right")
@@ -42,8 +44,11 @@
                   h2.mb-4.bgnegro.text-white.text-center Espacio adecuado 
               p.mb-0 El tamaño del espacio de recibo debe estar determinado por el volumen de mercancía y el tiempo de descarga, el cual debe ser el más breve posible para reducir costos operativos.
 
-    .etiqueta.sub10.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Recibo de alimentos
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Recibo de alimentos
  
     .row.justify-content-center.align-items-center.mb-4
       .col-6.col-md-6.col-lg-3
@@ -63,8 +68,11 @@
               .col-lg-12
                 p.mb-0 Algunas materias primas requieren condiciones especiales de almacenamiento, como refrigeración o espacios con control de humedad. Es crucial identificar y definir estos espacios según las necesidades específicas de cada producto.
 
-    .etiqueta.sub11.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Variables que influyen en el espacio de recibo
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Variables que influyen en el espacio de recibo
 
     .row
         TabsC.color-acento-botones.mb-5(data-aos="zoom-in-left")
@@ -98,8 +106,11 @@
                 p Este tipo de mercancía requiere áreas específicas, como silos de almacenamiento. Dependiendo de la infraestructura de la empresa, estos espacios pueden estar ubicados dentro o fuera de las instalaciones.
                 p Es importante que la organización del área de recibo se base en una planificación eficiente que minimice costos operativos, garantice la calidad de los productos y cumpla con las normativas de seguridad y salud.
 
-    .etiqueta.sub12.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Espacios y procesos para la recepción de productos
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Espacios y procesos para la recepción de productos
 
     p.mb-4 La correcta recepción de productos depende en gran medida de la naturaleza de la mercancía, y se requiere que los espacios y procesos sean adecuados para garantizar su correcto manejo.
 
@@ -127,8 +138,11 @@
       .col-lg-3.col-sm-6.col-md-6
         img(src='@/assets/curso/temas/t7/img4.png', alt='')
 
-    .etiqueta.sub13.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Características del área de despacho
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Características del área de despacho
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.col-sm-12.col-md-12

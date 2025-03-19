@@ -101,8 +101,11 @@
                     i.fas.fa-shopping-cart
                     span.mb-0 Este tipo de equipo es esencial en entornos donde la eficiencia en el transporte de mercancías es clave, aunque su instalación y limitaciones deben ser evaluadas según las características del espacio y el tipo de operación.
 
-    .etiqueta.sub6.p-2.d-flex.mb-4(data-aos="fade-left")
-      h3.mb-0.ps-5.pe-5 Equipos para movimiento y traslado de mercancías
+    .row.align-items-center.mb-5.subt(data-aos="fade-right")
+      .col-auto.ico
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+      .col
+        h3.mb-0.p-1.px-3 Equipos para movimiento y traslado de mercancías
 
     .row
       p Los equipos diseñados para el movimiento y traslado de mercancías incluyen transpaletas (manuales y motorizadas), apiladores (manuales y motorizados), carretillas, elevadores y montacargas. Estos equipos son fundamentales para facilitar el manejo de cargas dentro de almacenes, fábricas y centros de distribución.
