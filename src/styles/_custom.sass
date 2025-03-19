@@ -249,6 +249,14 @@ figcaption
 
 // tab tema 1
 
+.escala-grises .tabs-b__tab 
+  &.tabs-b__tab--active .tabs-b__tab__icon
+    filter: grayscale(0)
+    transition: all 0.2s ease-out
+  .tabs-b__tab__icon
+    filter: grayscale(1)
+    transition: all 0.2s ease-out
+
 .tabs-b
   border-bottom: none !important
 

@@ -21,7 +21,7 @@
 
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-12
-          TabsB.color-acento-botones
+          TabsB.color-acento-botones.escala-grises
             .py-4.py-md-5(titulo="Carga perecedera" :icono="require('@/assets/curso/temas/t1/tab1-1.png')")
               .row.align-items-center.justify-content-center
                 .col-sm-12.col-md-12.col-lg-8.mb-4.mb-md-0
@@ -69,8 +69,6 @@
                 .col-sm-12.col-md-6.col-lg-3
                   figure
                     img(src='@/assets/curso/temas/t1/img1-4.png', alt='Texto que describa la imagen')
-
-
 
 
   </template>
