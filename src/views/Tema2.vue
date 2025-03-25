@@ -52,7 +52,7 @@
       .col-auto.ico
         img(src='@/assets/curso/temas/subt.svg', alt='')
       .col
-        h3.mb-0.p-1.px-3 Carga granel
+        h3.mb-0.p-1.px-3 Carga a granel
 
     .row.mt-4.mb-4
       p La carga a granel se refiere a productos que se transportan en grandes cantidades y sin embalaje, es decir, en su forma original, sin envoltorios o contenedores individuales. Esta carga se estiba directamente en los compartimientos específicos de la bodega de los buques, los cuales están especialmente diseñados y acondicionados para recibirla de manera eficiente. La carga a granel se clasifica en tres tipos principales según su estado físico:
@@ -64,7 +64,7 @@
             p Incluye productos como granos comestibles, minerales, fertilizantes, abonos y otros materiales que se manejan en estado sólido. Estos productos suelen ser transportados por medio de grúas, cintas transportadoras o sistemas neumáticos para su carga y descarga.
           .tarjeta.color-primario.p-4(titulo="Carga a granel líquida")
             p Comprende sustancias líquidas como petróleo, lubricantes, gasolina, diésel y sebo. Este tipo de carga se transporta en cisternas especializadas, que permiten su almacenamiento y manejo seguro, evitando derrames o contaminaciones.
-          .tarjeta.color-primario.p-4(titulo="Cliente")
+          .tarjeta.color-primario.p-4(titulo="Carga a granel gaseosa")
             p Se refiere a gases como el propano, butano, y otros gases industriales que se transportan en estado gaseoso. Estos gases se transportan en depósitos presurizados o criogénicos, dependiendo de las condiciones en las que se encuentren durante el transporte.
 
     .row.align-items-center.mb-5.subt(data-aos="fade-right")
@@ -96,7 +96,7 @@
           .row.align-items-center.justify-content-center
             .col-lg
               h3 Carga peligrosa
-              p.mb-0 Son sustancias que presentan un riesgo para la salud, el medio ambiente o la seguridad, tales como ácidos, peróxidos, productos químicos inflamables, explosivos, entre otros. La manipulación de estas cargas deben seguir estrictas normativas de seguridad, como las dispuestas por la OMI (Organización Marítima Internacional), para minimizar los riesgos asociados.
+              p.mb-0 Son sustancias que presentan un riesgo para la salud, el medio ambiente o la seguridad, tales como ácidos, peróxidos, productos químicos inflamables, explosivos, entre otros. La manipulación de estas cargas deben seguir estrictas normativas de seguridad, como las dispuestas por la OMI (Organización marítima internacional), para minimizar los riesgos asociados.
             .col-auto
               figure(data-aos="zoom-in")
                 img.d-none.d-lg-block(src='@/assets/curso/temas/t2/ps1-3.png', alt='')

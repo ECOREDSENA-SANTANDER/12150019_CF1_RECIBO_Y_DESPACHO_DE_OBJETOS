@@ -72,7 +72,7 @@
           .col-6.col-md-3.col-lg-3
             img(src='@/assets/curso/temas/t5/ico2.png', alt='')
         .row.align-items-center.justify-content-center
-            p #[b Las mercancías pasan por diversas manipulaciones antes de ser entregadas al cliente o enviadas al punto de venta, a continuación se muestra el proceso:]
+            p #[b Las mercancías pasan por diversas manipulaciones antes de ser entregadas al cliente o enviadas al punto de venta, a continuación se presenta el proceso:]
             ul.lista-ul--color.fa-al
               li.mb-0 
                 i.fas.fa-shopping-cart
@@ -124,7 +124,7 @@
         .col-lg-6.col-sm-12.col-md-12
           .titulo-sexto.color-acento-contenido
             h5 Figura 2. 
-            | Forma Correcta de manipular los productos
+            | Forma correcta de manipular los productos
           figure
             img(src='@/assets/curso/temas/t5/fig2.png', alt='Conjunto de iconos rojos que indican instrucciones de manipulación para paquetes: frágil, temperatura máxima y mínima, proteger del sol y la humedad, lado hacia arriba, no apilar, no comprimir, no usar palancas ni ganchos.')
 

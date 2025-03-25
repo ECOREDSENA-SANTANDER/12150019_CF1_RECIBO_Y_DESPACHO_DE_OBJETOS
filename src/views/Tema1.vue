@@ -29,7 +29,7 @@
                   ul.lista-ul--color.fa-al
                     li 
                       i.fas.fa-check-circle
-                      span.mb-0 #[b Frutas y verduras:] son productos altamente delicados debido a su rápido deterioro. Es esencial que sean transportados en vehículos adecuados o entregados al consumidor final en el menor tiempo posible.                      .           
+                      span.mb-0 #[b Frutas y verduras:] son productos altamente delicados debido a su rápido deterioro. Es esencial que sean transportados en vehículos adecuados o entregados al consumidor final en el menor tiempo posible.        
                     li 
                       i.fas.fa-check-circle
                       span.mb-0 #[b Carnes y sus derivados:] necesitan un proceso continuo de refrigeración para prevenir el crecimiento de microorganismos, los cuales pueden deteriorar el producto y poner en riesgo la salud del consumidor.        

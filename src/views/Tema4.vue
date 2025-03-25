@@ -8,7 +8,7 @@
       h1 Concepto de recibido y despacho
 
     .row.justify-content-center.align-items-center.mb-4
-      p El recibo y despacho de mercancías son procesos fundamentales en las empresas, cuyo objetivo es garantizar la correcta entrada y salida de productos, siguiendo una serie de documentos y requisitos establecidos por los clientes. Estas operaciones requieren de habilidades específicas por parte del personal encargado, dado que tienen una alta responsabilidad sobre el control de los movimientos de inventario
+      p El recibo y despacho de mercancías son procesos fundamentales en las empresas, cuyo objetivo es garantizar la correcta entrada y salida de productos, siguiendo una serie de documentos y requisitos establecidos por los clientes. Estas operaciones requieren de habilidades específicas por parte del personal encargado, dado que tienen una alta responsabilidad sobre el control de los movimientos de inventario.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.col-sm-12.col-md-12
@@ -16,8 +16,8 @@
           .col-12.col-md-8.col-lg-5.p-0.bgprimario
             img(src='@/assets/curso/temas/t4/img1.png', alt='')
           .col-12.col-md-12.col-lg-7.bgsecundario
-            h4.mx-5.mt-4.mb-2.bgacentocontenido.p-2 Concepto de Recibo:
-            p.mx-5.mb-2 el recibo de mercancías implica una serie de operaciones que incluyen la recepción, descarga, verificación y almacenamiento de productos, así como la gestión de los documentos relacionados con dicha recepción. Este proceso representa el primer paso en la gestión de un almacén e involucra materias primas, productos en proceso y productos terminados. La operación concluye cuando el producto es correctamente ubicado en las áreas designadas.
+            h4.mx-5.mt-4.mb-2.p-2 Concepto de Recibo:
+            p.mx-5.mb-2 El recibo de mercancías implica una serie de operaciones que incluyen la recepción, descarga, verificación y almacenamiento de productos, así como la gestión de los documentos relacionados con dicha recepción. Este proceso representa el primer paso en la gestión de un almacén e involucra materias primas, productos en proceso y productos terminados. La operación concluye cuando el producto es correctamente ubicado en las áreas designadas.
         p.mt-4 Las actividades de recibido y despacho se llevan a cabo de manera continua en los almacenes, bodegas y centros de distribución, los cuales requieren una coordinación eficiente entre proveedores y clientes para asegurar un flujo constante de información.
       .col-lg-3.col-sm-6.col-md-6
         img(src='@/assets/curso/temas/t4/img2.png', alt='').d-none.d-lg-block

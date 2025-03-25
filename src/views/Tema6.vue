@@ -67,7 +67,7 @@
                   .col-8.my-2
                     img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t6/tar1-3.png' alt='AvatarTop')
                 .bgprimario.p-2.mb-4
-                  h4.text-center.mb-0 Área de alistamiento o preparación (#[em Picking]) 
+                  h4.text-center.mb-0 Área de alistamiento o preparación (#[em picking]) 
                 p.mb-0.text-center(data-aos="fade-right") Es el espacio destinado a la preparación de los pedidos que deben ser despachados, considerando las unidades, cajas o productos a granel según corresponda.  
               .tarjeta.tarjeta--slyder.b1.p-2.p-lg-4.p-md-3
                 .row.justify-content-center.mb-3

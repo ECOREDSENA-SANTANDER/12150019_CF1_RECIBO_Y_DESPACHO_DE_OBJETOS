@@ -206,7 +206,7 @@ export default {
       significado: 'retirar el embalaje de los productos para inspección.',
     },
     {
-      termino: 'EDI (Intercambio Electrónico de Datos)',
+      termino: 'EDI (Intercambio electrónico de datos)',
       significado:
         'sistema que permite el intercambio de datos estructurados entre sistemas para agilizar la comunicación comercial y logística.',
     },
@@ -325,9 +325,9 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Nombre responsable',

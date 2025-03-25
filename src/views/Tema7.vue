@@ -89,7 +89,7 @@
                 img(src='@/assets/curso/temas/t7/tab1-2.png', alt='')
               .col-lg-5.col-md-12.col-sm-12
                 h4.mt-2 Frecuencia de entrega
-                p La cantidad de entregas periódicas también influye en la organización del área de recibo..
+                p La cantidad de entregas periódicas también influye en la organización del área de recibo.
           .py-3.py-md-5(titulo="Especificaciones")
             .row.justify-content-center
               .col-lg-5.col-md-5.col-5.mb-4
@@ -133,7 +133,7 @@
           .col-6.col-md-5.col-lg-5.p-0.bgprimario
             img(src='@/assets/curso/temas/t7/img3.png', alt='')
           .col-12.col-md-12.col-lg-7.bgsecundario
-            h4.mx-5.mt-4.mb-2.bgacentocontenido.p-2 Acomodación de cajas y otros productos
+            h4.mx-5.mt-4.mb-2.p-2 Acomodación de cajas y otros productos
             p.mx-5.mb-2 El proceso de acomodación de las cajas debe hacerse de manera que se garantice su seguridad y accesibilidad. Dependiendo de las características del producto, las cajas pueden organizarse por tamaño, peso, tipo o fecha de caducidad, lo que facilita tanto el proceso de recepción como el de almacenamiento.
       .col-lg-3.col-sm-6.col-md-6
         img(src='@/assets/curso/temas/t7/img4.png', alt='')
@@ -147,7 +147,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.col-sm-12.col-md-12
         p El área de despacho debe ser lo suficientemente amplia para permitir el alistamiento de los pedidos que serán despachados durante el día o en determinadas franjas horarias. Esto garantiza que no haya riesgo de confusión durante el proceso de carga. Además, es recomendable contar con un espacio exclusivo para almacenar la mercancía que será devuelta debido a no conformidades en los productos.
-        p Otra característica fundamental es el espacio destinado para el picking o alistamiento, el cual dependerá de la naturaleza de los productos, las cantidades solicitadas, el número de referencias, así como de las especificaciones técnicas y de manipulación de la mercancía. Es crucial contar con áreas adecuadas y suficientes para el uso de equipos de movilización tanto durante el alistamiento como en el proceso de carga de los productos.
+        p Otra característica fundamental es el espacio destinado para el #[em picking] o alistamiento, el cual dependerá de la naturaleza de los productos, las cantidades solicitadas, el número de referencias, así como de las especificaciones técnicas y de manipulación de la mercancía. Es crucial contar con áreas adecuadas y suficientes para el uso de equipos de movilización tanto durante el alistamiento como en el proceso de carga de los productos.
         p En caso de contar con muelles de carga, se debe asegurar que el área esté despejada para permitir que las operaciones se realicen de manera eficiente y en el menor tiempo posible.
       .col-lg-5.col-6.col-md-10
         img(src='@/assets/curso/temas/t7/img5.png', alt='')
@@ -155,7 +155,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.col-sm-12.col-md-12
         .cajon.color-acento-contenido.p-4.mb-4
-          p #[b Observación:] Al igual que en el proceso de recepción, se deben tener en cuenta las características específicas de las áreas de despacho, especialmente para productos alimenticios. En este caso, la zona de alistamiento debe disponer de los equipos necesarios para mantener la cadena de frío cuando sea necesario. Además, si se realizan despachos a granel o se entregan productos en arrume, deben tomarse en cuenta las condiciones adecuadas para garantizar su correcta manipulación.
+          p #[b Observación:] al igual que en el proceso de recepción, se deben tener en cuenta las características específicas de las áreas de despacho, especialmente para productos alimenticios. En este caso, la zona de alistamiento debe disponer de los equipos necesarios para mantener la cadena de frío cuando sea necesario. Además, si se realizan despachos a granel o se entregan productos en arrume, deben tomarse en cuenta las condiciones adecuadas para garantizar su correcta manipulación.
 
 </template>
 
