@@ -114,7 +114,7 @@
               figure(data-aos="zoom-in")
                 img.d-none.d-lg-block(src='@/assets/curso/temas/t6/ps1-4.png', alt='')
             .col-lg
-              h3 Preparación del pedido (#[em Picking])
+              h3 Preparación del pedido (#[em picking])
               p Se realiza la preparación de los pedidos solicitados, unificando los distintos pedidos si es necesario, y asegurando la correcta documentación, referencias y cantidades solicitadas.
           .row.align-items-center.justify-content-center
             .col-lg

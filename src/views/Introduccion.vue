@@ -21,7 +21,7 @@
       .col-sm-12.col-md-12.col-lg-10.mt-4
         figure
           .video
-            iframe.borde-redondo(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe.borde-redondo(width="560" height="315" src="https://www.youtube.com/embed/NMs-DJCYNpE?si=azGSHahCnF6VnSq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
