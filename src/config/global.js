@@ -319,6 +319,11 @@ export default {
           cargo: 'Desarrolladora <i>full-stack</i> junior',
           centro: 'Centro Agroturístico - Regional Santander',
         },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
     {
@@ -332,7 +337,7 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
