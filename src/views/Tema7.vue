@@ -133,8 +133,9 @@
           .col-6.col-md-5.col-lg-5.p-0.bgprimario
             img(src='@/assets/curso/temas/t7/img3.png', alt='')
           .col-12.col-md-12.col-lg-7.bgsecundario
-            h4.mx-5.mt-4.mb-2.p-2 Acomodación de cajas y otros productos
-            p.mx-5.mb-2 El proceso de acomodación de las cajas debe hacerse de manera que se garantice su seguridad y accesibilidad. Dependiendo de las características del producto, las cajas pueden organizarse por tamaño, peso, tipo o fecha de caducidad, lo que facilita tanto el proceso de recepción como el de almacenamiento.
+            .row.p-4
+              h4.mt-4.mb-4.px-5.py-2 Acomodación de cajas y otros productos
+              p.mb-5.px-5.pt-2 El proceso de acomodación de las cajas debe hacerse de manera que se garantice su seguridad y accesibilidad. Dependiendo de las características del producto, las cajas pueden organizarse por tamaño, peso, tipo o fecha de caducidad, lo que facilita tanto el proceso de recepción como el de almacenamiento.
       .col-lg-3.col-sm-6.col-md-6
         img(src='@/assets/curso/temas/t7/img4.png', alt='')
 
