@@ -23,6 +23,8 @@ export default {
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales sobre la gestión de recepción y despacho según las características del producto.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: true,
       preguntas: [
         {
