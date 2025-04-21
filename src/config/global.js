@@ -131,7 +131,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXX.pdf',
+        download: 'downloads/CF1_12150019_DU.pdf',
       },
       {
         icono: 'fas fa-download',
