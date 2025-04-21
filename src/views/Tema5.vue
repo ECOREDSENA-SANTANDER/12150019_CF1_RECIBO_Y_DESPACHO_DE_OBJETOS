@@ -144,7 +144,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/t5/img5.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-2.mt-2 Las empresas modernas hacen uso del EDI (Intercambio Electrónico de Datos), un conjunto de datos estructurados según normas específicas que pueden ser transmitidos electrónicamente. Estos formatos son procesados de manera segura, garantizando la integridad de la información. El EDI actúa como interfaz entre sistemas locales y permite el intercambio estructurado de información comercial, lo que asegura que los procesos se basen en datos claros y sin ambigüedades.
+            p.mb-2.mt-2 Las empresas modernas hacen uso del EDI (Intercambio electrónico de datos), un conjunto de datos estructurados según normas específicas que pueden ser transmitidos electrónicamente. Estos formatos son procesados de manera segura, garantizando la integridad de la información. El EDI actúa como interfaz entre sistemas locales y permite el intercambio estructurado de información comercial, lo que asegura que los procesos se basen en datos claros y sin ambigüedades.
             br 
             br 
             p Por otro lado, las empresas que han optado por vender a través de internet han optimizado sus procesos internos, lo que les permite responder más eficientemente a las necesidades de los clientes, basándose en la información proporcionada por los proveedores. Esta modalidad les ha exigido manejar grandes volúmenes de datos para tomar decisiones rápidas y oportunas, lo que a su vez hace que toda la cadena de suministro sea más eficiente.

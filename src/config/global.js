@@ -302,7 +302,7 @@ export default {
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro Agroturistico – Regional Santander',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
       ],
     },
@@ -335,7 +335,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
